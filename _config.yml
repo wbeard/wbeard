@@ -1,9 +1,9 @@
-name: "hikari"
+name: "Perfect Code"
 description: "Fluid, responsive blog theme for Jekyll"
 
 author: "William Beard"
 
-url: "http://wbeard.github.io/wbeard"
+url: "http://wbeard.github.io/"
 baseurl: "http://wbeard.github.io/wbeard"
 
 markdown: rdiscount
@@ -11,5 +11,5 @@ permalink: :year/:month/:title.html
 pygments: true
 
 # Google Analytics
-ga_domain: m3xm.github.io
-ga_tracking_id: UA-47727049-1
+ga_domain: #
+ga_tracking_id: #
